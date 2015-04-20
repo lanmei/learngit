@@ -16,4 +16,4 @@ return res;
 }
 var arr = [1, 'a', 'a', 'b', 'd', 'e', 'e', 1, 0]
 alert(arr.unique1());
-look me
+
