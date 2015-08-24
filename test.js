@@ -16,4 +16,9 @@ return res;
 }
 var arr = [1, 'a', 'a', 'b', 'd', 'e', 'e', 1, 0]
 alert(arr.unique1());
+<<<<<<< HEAD
 
+=======
+look me
+home first
+>>>>>>> 4ad4a0e426c12a35777b3f7ae801bac06908fa13
